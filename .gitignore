@@ -1,7 +1,7 @@
 dist
 node_modules
-wrangler.toml
-.env
+# wrangler.toml
+# .env
 .DS_Store
 .wrangler
-branding.json
+# branding.json
