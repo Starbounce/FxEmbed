@@ -1,4 +1,4 @@
-name = "fixtweet"
+name = "anonfillyx"
 account_id = "3b865406beb1f98e1b86d1aa16822145"
 main = "./dist/worker.js"
 compatibility_date = "2024-11-14"
