@@ -1,8 +1,8 @@
 {
   "zones": [
     {
-      "name": "AnonfillyX",
-      "domains": ["anonfillyx.com, anonfillytwitter.com, anonfillybsky.app"],
+      "name": "Anonfilly Embeds",
+      "domains": ["anonfillyx.com, anonfillytwitter.com, anonfillybsky.app, horsepussyx.com"],
       "provider": "twitter",
       "favicon": "https://abs.twimg.com/favicons/twitter.3.ico",
       "redirect": "https://github.com/FxEmbed/FxEmbed",

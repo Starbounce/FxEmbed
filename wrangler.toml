@@ -26,7 +26,7 @@ pattern = "api.anonfillyx.com"
 custom_domain = true
 
 [[routes]]
-pattern = "*.anonfillyx.com"
+pattern = "*.anonfillyx.com/*"
 zone_name = "anonfillyx.com"
 
 [[routes]]
@@ -38,7 +38,7 @@ pattern = "api.anonfillytwitter.com"
 custom_domain = true
 
 [[routes]]
-pattern = "*.anonfillytwitter.com"
+pattern = "*.anonfillytwitter.com/*"
 zone_name = "anonfillytwitter.com"
 
 [[routes]]
@@ -50,5 +50,17 @@ pattern = "api.anonfillybsky.app"
 custom_domain = true
 
 [[routes]]
-pattern = "*.anonfillybsky.app"
+pattern = "*.anonfillybsky.app/*"
 zone_name = "anonfillybsky.app"
+
+[[routes]]
+pattern = "horsepussyx.com"
+custom_domain = true
+
+[[routes]]
+pattern = "api.horsepussyx.com"
+custom_domain = true
+
+[[routes]]
+pattern = "*.horsepussyx.com/*"
+zone_name = "horsepussyx.com"
