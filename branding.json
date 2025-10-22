@@ -1,0 +1,21 @@
+{
+  "zones": [
+    {
+      "name": "AnonfillyX",
+      "domains": ["anonfillyx.com, anonfillytwitter.com, anonfillybsky.app"],
+      "provider": "twitter",
+      "favicon": "https://abs.twimg.com/favicons/twitter.3.ico",
+      "redirect": "https://github.com/FxEmbed/FxEmbed",
+      "color": "#6363ff",
+      "activityIcons": {
+        "default": "https://assets.anonfillyx.com/anonfillyx%20logo%2032.png",
+        "svg": "https://assets.anonfillyx.com/anonfillyx%20logo%20crop.png",
+        "16": "https://assets.anonfillyx.com/anonfillyx%20logo%2016.png",
+        "24": "https://assets.anonfillyx.com/anonfillyx%20logo%2024.png",
+        "32": "https://assets.anonfillyx.com/anonfillyx%20logo%2032.png",
+        "48": "https://assets.anonfillyx.com/anonfillyx%20logo%2048.png",
+        "64": "https://assets.anonfillyx.com/anonfillyx%20logo%2064.png"
+      }
+    }
+  ]
+}
