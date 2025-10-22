@@ -8,13 +8,13 @@
       "redirect": "https://github.com/FxEmbed/FxEmbed",
       "color": "#6363ff",
       "activityIcons": {
-        "default": "https://assets.anonfillyx.com/anonfillyx%20logo%2032.png",
-        "svg": "https://assets.anonfillyx.com/anonfillyx%20logo%20crop.png",
-        "16": "https://assets.anonfillyx.com/anonfillyx%20logo%2016.png",
-        "24": "https://assets.anonfillyx.com/anonfillyx%20logo%2024.png",
-        "32": "https://assets.anonfillyx.com/anonfillyx%20logo%2032.png",
-        "48": "https://assets.anonfillyx.com/anonfillyx%20logo%2048.png",
-        "64": "https://assets.anonfillyx.com/anonfillyx%20logo%2064.png"
+        "default": "https://assets.anonfillyx.com/anonfillyx%20logo2%20128.png",
+        "svg": "https://assets.anonfillyx.com/anonfillyx%20logo2%20crop.png",
+        "16": "https://assets.anonfillyx.com/anonfillyx%20logo2%2016.png",
+        "24": "https://assets.anonfillyx.com/anonfillyx%20logo2%2024.png",
+        "32": "https://assets.anonfillyx.com/anonfillyx%20logo2%2032.png",
+        "48": "https://assets.anonfillyx.com/anonfillyx%20logo2%2048.png",
+        "64": "https://assets.anonfillyx.com/anonfillyx%20logo2%2064.png"
       }
     }
   ]
