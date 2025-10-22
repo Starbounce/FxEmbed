@@ -6,7 +6,7 @@
       "provider": "twitter",
       "favicon": "https://abs.twimg.com/favicons/twitter.3.ico",
       "redirect": "https://github.com/FxEmbed/FxEmbed",
-      "color": "#6363ff",
+      "color": "#78b264",
       "activityIcons": {
         "default": "https://assets.anonfillyx.com/anonfillyx%20logo2%20128.png",
         "svg": "https://assets.anonfillyx.com/anonfillyx%20logo2%20crop.png",
